@@ -1,0 +1,113 @@
+[PROJECT]
+Target=dht11_class_example.hex
+Processor_Text=PIC16F877A
+CCSVerions=5.070
+Compiler=PCM
+CCSVersion=5.070
+[Target Data]
+FileList=dht11_class_example.c
+[Directories]
+Include=
+[C:\Users\omeru\Desktop\dht11_class_example]
+Type=4
+[mru-list]
+1=dht11_class_example.c
+[CompilerVersion]
+Fixed=5.070	
+
+[ProjectLog]
+Days=4
+D1=16-09-2019
+D1_L=7
+D1_L1=[60631]Project Opened.
+D1_L2=[60652]Started Editing.
+D1_L3=[61869]Stopped Editing.
+D1_L4=[62679]Started Editing.
+D1_L5=[64486]Stopped Editing.
+D1_L6=[64963]Started Editing.
+D1_L7=[66322]Stopped Editing.
+D2=17-09-2019
+D2_L=49
+D2_L1=[2516]Started Editing.
+D2_L2=[4041]Stopped Editing.
+D2_L3=[4279]Started Editing.
+D2_L4=[6101]Stopped Editing.
+D2_L5=[7252]Started Editing.
+D2_L6=[7741]Stopped Editing.
+D2_L7=[8053]Started Editing.
+D2_L8=[8455]Stopped Editing.
+D2_L9=[8983]Started Editing.
+D2_L10=[10076]Stopped Editing.
+TotalEdit=268
+TotalDebug=0
+D2_E=267
+D2_D=0
+D2_L11=[11092]Project Closed.
+D2_L12=[11536]Project Opened.
+D2_L13=[11550]Started Editing.
+D2_L14=[11850]Stopped Editing.
+D2_L15=[12150]Started Editing.
+D2_L16=[12459]Stopped Editing.
+D2_L17=[12890]Project Closed.
+D2_L18=[12920]Project Opened.
+D2_L19=[12936]Started Editing.
+D2_L20=[13855]Stopped Editing.
+D2_L21=[18213]Started Editing.
+D2_L22=[19242]Stopped Editing.
+D2_L23=[19471]Started Editing.
+D2_L24=[21846]Stopped Editing.
+D2_L25=[21847]Project Closed.
+D2_L26=[22218]Project Opened.
+D2_L27=[22237]Project Closed.
+D2_L28=[22278]Project Opened.
+D2_L29=[22283]Project Closed.
+D2_L30=[22321]Project Opened.
+D2_L31=[22358]Started Editing.
+D2_L32=[23061]Stopped Editing.
+D2_L33=[23377]Project Closed.
+D2_L34=[26156]Project Opened.
+D2_L35=[26666]Started Editing.
+D2_L36=[27588]Stopped Editing.
+D2_L37=[27699]Started Editing.
+D2_L38=[27811]Stopped Editing.
+D2_L39=[27812]Project Closed.
+D2_L40=[28119]Project Opened.
+D2_L41=[28186]Project Closed.
+D2_L42=[28619]Project Opened.
+D2_L43=[28707]Started Editing.
+D2_L44=[30228]Stopped Editing.
+D2_L45=[30228]Project Closed.
+D2_L46=[30987]Project Opened.
+D2_L47=[30991]Started Editing.
+D2_L48=[31623]Stopped Editing.
+D2_L49=[31623]Project Closed.
+D3=20-09-2019
+D3_L=6
+D3_L1=[34313]Project Opened.
+D3_L2=[34314]Project Closed.
+D3_L3=[53176]Project Opened.
+D3_L4=[53205]Started Editing.
+D3_L5=[53251]Stopped Editing.
+D3_E=1
+D3_D=0
+D3_L6=[53251]Project Closed.
+D4=01-10-2019
+D4_L=1
+D4_L1=[54695]Project Opened.
+
+[Opened Files]
+1=..\..\zzzzz\pointer bit.c
+t1=28
+2=dht11_class_example.c
+t2=28
+Count=3
+3=dht11_class.c
+t3=33
+[dht11_class_example.c]
+Type=4
+
+[defines]
+buildcount=140
+[Units]
+Count=1
+1=dht11_class_example (main)
